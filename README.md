@@ -6,3 +6,6 @@
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+
+
+[![Open Code Badge](https://www.comses.net/static/images/icons/open-code-badge.png)](https://www.comses.net/codebases/6c4b759c-71f3-4da8-ac1d-3c130158a481/releases/1.0.0/)
