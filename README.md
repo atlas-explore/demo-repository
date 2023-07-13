@@ -2,10 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/template-project/master)
 
-Title
------
-**_Please replace the following with information about your own repository._**
-
 Welcome! This is a template git repository for creating REPRODUCIBLE Underworld code based projects.
 
 REPRODUCIBLE because this project:
@@ -19,15 +15,52 @@ _version control_, _reproducible environments_, _collaboration_ (Pull Requests, 
 
 You can use this repository as a GitHub template to start a new repository of your own that matches the requirements of the underworld-community. To get started, hit the "Use this template" button above. See this [quick start guide]( https://github.com/underworld-community/template-project/wiki/Quick-start) for more information.
 
-Dataset version*
+
+**_Please replace the following with information about your own repository._**
+
+Title
 -----
+
+Dataset version
+-----
+
+Abstract
+-----
+
+
+Topic category
+-----
+
+"Main theme(s) of the dataset. 
+
+Please select one theme from the following list: 
+https://www.ngdc.noaa.gov/wiki/index.php/ISO_Topic_Categories"
+
+Computational modelling, geodynamics, numerical simulation, plate tectonics, differential equation, Earth's interiour
 
 Field of research (FOR)
 -----
 
+040402 - Geodynamics
+
+"Please supply the most relevant Field of research (FOR) code for this dataset. The Australian and New Zealand Standard Research Classification: Fields of Research allows research and development (R&D) activity to be categorised according to the methodology used in the R&D, rather than the activity of the unit performing the R&D or the purpose of the R&D. The categories in the classification include major fields and related sub-fields of research and emerging areas of study investigated by businesses, universities, tertiary institutions, national research institutions and other organisations. This classification allows the categorisation of fields of research activity within Australia and New Zealand.
+
+Codes and corresponding descriptions can be found here:
+https://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/6BB427AB9696C225CA2574180004463E?opendocument
+"
+
 
 Licence
 -----
+
+"License for this dataset. Please provide the license type as well as the link/local path to the license. 
+
+
+NCI's preferred license, where possible, is the:
+Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
+
+
+Information on other CC-BY licenses can be found at: https://creativecommons.org/about/cclicenses/"
 
 Dataset lineage information
 -----
